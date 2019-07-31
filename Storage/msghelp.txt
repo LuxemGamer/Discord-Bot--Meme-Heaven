@@ -1,0 +1,22 @@
+
+    **L-Bot Help**
+    >Command help. For extended usage please use **<help <command>**(WIP)
+
+
+     **Image Commands**
+     >  <cat /  <dog / <bill / ~~<meme~~ / ~~<comic~~
+
+     **Fun Commands**
+     >  ~~fortune~~ / <8ball / <chuck-norris
+
+     **Info Commands**
+     >  <uptime / <level / <userinfo / <stats /..."
+
+     **MusicBot Commands**
+     >  <play / ~~<skip~~ / ~~<stop~~ /... __**Currently working on**__
+
+     **MISC**
+     >  ~~<fakeuser~~
+
+     **Want more features?**
+     Do <suggest (your suggestion) :)
